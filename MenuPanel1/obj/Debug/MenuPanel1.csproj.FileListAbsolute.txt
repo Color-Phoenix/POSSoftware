@@ -1,0 +1,12 @@
+C:\Projects\MenuPanel1\MenuPanel1\bin\Debug\MenuPanel1.exe.config
+C:\Projects\MenuPanel1\MenuPanel1\bin\Debug\MenuPanel1.exe
+C:\Projects\MenuPanel1\MenuPanel1\bin\Debug\MenuPanel1.pdb
+C:\Projects\MenuPanel1\MenuPanel1\obj\Debug\MenuPanel1.csprojResolveAssemblyReference.cache
+C:\Projects\MenuPanel1\MenuPanel1\obj\Debug\MenuPanel1.Form1.resources
+C:\Projects\MenuPanel1\MenuPanel1\obj\Debug\MenuPanel1.Properties.Resources.resources
+C:\Projects\MenuPanel1\MenuPanel1\obj\Debug\MenuPanel1.csproj.GenerateResource.Cache
+C:\Projects\MenuPanel1\MenuPanel1\obj\Debug\MenuPanel1.exe
+C:\Projects\MenuPanel1\MenuPanel1\obj\Debug\MenuPanel1.pdb
+C:\Projects\MenuPanel1\MenuPanel1\obj\Debug\MenuPanel1.Receipt.resources
+C:\Projects\MenuPanel1\MenuPanel1\bin\Debug\MySql.Data.dll
+C:\Projects\MenuPanel1\MenuPanel1\bin\Debug\MySql.Data.xml
